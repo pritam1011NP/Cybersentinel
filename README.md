@@ -27,5 +27,5 @@ pip install -r requirements.txt
 python run_agents.py
 ```
 
-## ❤️ Contributors
-Developed with ❤️ by **Pritam & ChatGPT**  
+## ❤️ Contributor
+Developed with ❤️ by **Pritam**  
